@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/next"
+    }
+  ],
+  "env": {
+    "GROQ_API_KEY": "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"
+  }
+} 
